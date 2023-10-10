@@ -1,0 +1,18 @@
+body {
+    background-image: url(images/street.jpg);
+    color: rgb(181, 222, 255);
+}
+
+ol {
+    opacity: 0.6;
+}
+
+li {
+    color: rgb(211, 21, 16);
+}
+
+.gradient {
+    background-image: linear-gradient(to right,
+            rgb(247, 92, 70),
+            rgb(0, 143, 93));
+}
