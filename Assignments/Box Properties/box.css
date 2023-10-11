@@ -1,16 +1,25 @@
-img {
+#picture {
+    width: 300px;
     float: left;
-    width: 170px;
-    height: 170px;
-    margin-left: 15px;
-    >
-}
-
-h1 {
-    background-color: blanchedalmond;
+    border: 3px solid black;
 }
 
 p {
-    background-color: aliceblue;
-    color: #000;
+    background-color: purple;
+    padding: 20px;
+    border: 3px solid black;
+    margin: 50px;
+}
+
+h1,
+footer {
+    text-align: center;
+}
+
+#picture:hover {
+    padding: 10px;
+    margin: 10px, 0px, 10px;
+    border: 3px dashed red;
+    width: 310px;
+    cursor: pointer;
 }
