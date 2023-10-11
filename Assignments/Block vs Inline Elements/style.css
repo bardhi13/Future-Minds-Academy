@@ -1,0 +1,9 @@
+body {
+    background-color: aqua;
+    margin: 7%;
+    font-size: 1.5em;
+}
+
+.inlineclass {
+    display: inline;
+}
