@@ -1,0 +1,56 @@
+.box-shadow {
+    width: 600px;
+    height: auto;
+    background-color: #fffaea;
+    position: relative;
+    box-shadow: -5px 40px 19px -29px #bcbcbc;
+    margin-top: 3%;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    bottom: 18px;
+    left: 12px;
+}
+
+p {
+    position: relative;
+    bottom: 30px;
+    left: 15px;
+}
+
+.x-letter {
+    display: inline-block;
+    background-color: #ff0000;
+    text-align: center;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 22px;
+    line-height: 30px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: -38%;
+    right: -2%;
+}
+
+body {
+    background-color: #86e7c3;
+}
+
+.videocontainer {
+    position: fixed;
+    top: 60%;
+    right: 1%;
+    border: 1px solid black;
+    border-radius: 35px;
+    padding: 1px 5px 30px;
+}
+
+.namevideo {
+    position: absolute;
+    top: 77%;
+    left: 15%;
+}
